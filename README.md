@@ -25,7 +25,8 @@ Requirements:
  Rofi-Themes: https://github.com/newmanls/rofi-themes-collection (CLI - rofi-theme-selector)
 	
  Catppuccin for Rofi: https://github.com/catppuccin/rofi?tab=readme-ov-file (CLI - rofi-theme-selector)
-	
+
+ ------------If you have any doubts, you can ask me in the "issues" section------------
 	
 ![image](https://github.com/user-attachments/assets/12d9b985-533e-4da2-98fb-9752b3fe09e2)
 ![image](https://github.com/user-attachments/assets/a7f021b0-00e3-4151-8a75-c40fb2eaf589)
