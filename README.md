@@ -30,7 +30,8 @@ Requirements:
 
  ------------If you have any doubts, you can ask me in the "issues" section------------
 	
-![image](https://github.com/user-attachments/assets/12d9b985-533e-4da2-98fb-9752b3fe09e2)
-![image](https://github.com/user-attachments/assets/a7f021b0-00e3-4151-8a75-c40fb2eaf589)
-![image](https://github.com/user-attachments/assets/308bb629-b79e-4226-8ca3-c70f652222e3)
+![image](https://github.com/user-attachments/assets/34271f86-b637-45dd-929c-2445adc9b418)
+![image](https://github.com/user-attachments/assets/acdd5c65-0b37-47dc-96fc-494e7f0ea73b)
+
+
 
