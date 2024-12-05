@@ -26,6 +26,8 @@ Requirements:
 	
  Catppuccin for Rofi: https://github.com/catppuccin/rofi?tab=readme-ov-file (CLI - rofi-theme-selector)
 
+ Autotiling: pacman -S autotiling (install it from distro's repository)
+
  ------------If you have any doubts, you can ask me in the "issues" section------------
 	
 ![image](https://github.com/user-attachments/assets/12d9b985-533e-4da2-98fb-9752b3fe09e2)
